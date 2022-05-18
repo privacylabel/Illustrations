@@ -5,4 +5,4 @@ https://www.privacylabel.org
 They were created by Martijn Veenstra, as a compantion to the website theme. You may use them but you are not allowed to modify them further.
 
 
-![Take action.png](./Take action.png "")
+![Duration.png](./Duration.png "")
